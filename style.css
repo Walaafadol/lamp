@@ -121,6 +121,7 @@ body {
   position: relative;
   border-radius: 4px;
   border: 1px solid black;
+Cursor:pointer
 }
 
 .onoff::before {
