@@ -143,8 +143,8 @@ body {
   top: 3px;
 }
 .on .circle {
-  box-shadow: 0 0 50px white, 0 0 100px rgb(250, 241, 241), 0 0 150px #fff,
-    0 0 200px #fff, 0 0 250px white, 0 0 300px #fff;
+  box-shadow: 0 0 50px white, 0 0 100px #fff, 0 0 150px #fff,
+    0 0 200px #fff, 0 0 250px #fff, 0 0 300px #fff;
   background: #fff;
 }
 #audio {
